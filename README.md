@@ -15,9 +15,6 @@ I'm very familiar with Web Scrapping and AI related Web & Mobile application dev
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
   </a>
   <a href="https://github.com/ai2guru">
-    <img alt="Solidity" src="https://github.com/ai2guru/ai2guru/blob/main/icons/solidity.png" />
-  </a>
-  <a href="https://github.com/ai2guru">
     <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   </a>
   <a href="https://github.com/ai2guru">
@@ -48,16 +45,10 @@ I'm very familiar with Web Scrapping and AI related Web & Mobile application dev
     <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
   </a>
   <a href="https://github.com/ai2guru">
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-  </a>
-  <a href="https://github.com/ai2guru">
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
   </a>
   <a href="https://github.com/ai2guru">
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
-  </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-80a50e?style=flat&logoColor=white" />
   </a>
   <a href="https://github.com/ai2guru">
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0f69a9?style=flat&logo=mysql&logoColor=white" />
