@@ -1,11 +1,11 @@
-<h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am John, Senior Software Engineer | Blockchain Expert</h1>
+<h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am Anton, Senior Software Engineer | AI Expert</h1>
 <p align="left">
 Nice to meet you! 🤗 <br/>
-I'm very familiar with UX/UI | Web Design | Web2 | Web3 | DApp | Machine Learning  as Full-stack developer.
+I'm very familiar with Web Scrapping and AI related Web & Mobile application development as Full-stack developer.
 </p>
 
 <p align="center">
-  <img src="https://github.com/ai2guru/ai2guru/blob/main/code.gif">
+  <img src="https://github.com/ai2guru/ai2guru/blob/main/software_development.gif">
 </p>
 
 ## 🔧 Technologies & Tools
