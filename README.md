@@ -12,7 +12,10 @@ I'm very familiar with Web Scrapping and AI related Web & Mobile application dev
 
 <div>
   <a href="https://github.com/ai2guru">
-    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/ai2guru">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   </a>
   <a href="https://github.com/ai2guru">
     <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
@@ -25,12 +28,6 @@ I'm very familiar with Web Scrapping and AI related Web & Mobile application dev
   </a>
   <a href="https://github.com/ai2guru">
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-  </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
-  </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   </a>
   <a href="https://github.com/ai2guru">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
