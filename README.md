@@ -5,7 +5,7 @@ I'm very familiar with Web Scrapping and AI related Web & Mobile application dev
 </p>
 
 <p align="center">
-  <img src="https://github.com/ai2guru/ai2guru/blob/main/software_development.gif">
+  <img src="https://github.com/ai2guru/ai2guru/blob/main/software_devlopment.gif">
 </p>
 
 ## 🔧 Technologies & Tools
