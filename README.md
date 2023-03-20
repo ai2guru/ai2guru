@@ -1,96 +1,179 @@
-<h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am Anton, Senior Software Engineer | AI Expert</h1>
+<h1 align="center">Hi 👋, I'm Anton Sanoiev</h1>
+<h3 align="center">Web Scrapping | AI Engineer from Toronto, Canada</h3>
 <p align="left">
-Nice to meet you! 🤗 <br/>
-I'm very familiar with Web Scrapping and AI related Web & Mobile application development as Full-stack developer.
+  <img src="https://komarev.com/ghpvc/?username=ai2guru&label=Profile%20views&color=0e75b6&style=flat" alt="ai2guru" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/ai2guru/ai2guru/blob/main/software_devlopment.gif">
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ai2guru" alt="ai2guru" />
+  </a>
+</p> - 🔭 I’m currently working on **Remote Agency** - 👨‍💻 All of my projects are available at [https://anton-sanoiev-portfolio.vercel.app/](https://anton-sanoiev-portfolio.vercel.app/) - 💬 Ask me about **Web Scrapping & AI related application development** - 📫 How to reach me **antonsanoiev99521@gmail.com** - 📄 Know about my experiences [https://anton-sanoiev-portfolio.vercel.app/](https://anton-sanoiev-portfolio.vercel.app/) - ⚡ Fun fact **Very interesting & funny** <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/anton-sanoiev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anton-sanoiev" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/ai2engineer#3252" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ai2engineer#3252" height="30" width="40" />
+  </a>
 </p>
-
-## 🔧 Technologies & Tools
-
-<div>
-  <a href="https://github.com/ai2guru">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <a href="https://backbonejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
   </a>
-  <a href="https://github.com/BCDev727">
-    <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0f69a9?style=flat&logo=mysql&logoColor=white" />
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
   </a>
-  <a href="https://github.com/BCDev727">  
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">  
-    <img alt="Amazon" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">  
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+  <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">  
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">  
-    <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab" />
+  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">  
-    <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
+  <a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
   </a>
-  <a href="https://github.com/ai2guru">  
-    <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
   </a>
-</div>
-
-## &#x1f4c8; GitHub Stats
-
-<div align="center">
-  <a href="https://git.io/streak-stats"  align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=BCDev727&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&hide_border=true" align="center" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
-</div>
-<div align="center">
-  <a href="https://github.com/BCDev727/BCDev727" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=BCDev727&show_icons=true&line_height=27&count_private=true&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" alt="J.Mark's GitHub Stats" align="center" />
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
   </a>
-</div>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
+  </a>
+  <a href="https://www.perl.org/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40" />
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
+  </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" />
+  </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" />
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+  </a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
+  </a>
+</p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ai2guru&show_icons=true&locale=en&layout=compact" alt="ai2guru" />
+</p>
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ai2guru&show_icons=true&locale=en" alt="ai2guru" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ai2guru&" alt="ai2guru" />
+</p>
