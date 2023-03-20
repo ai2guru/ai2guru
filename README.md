@@ -13,7 +13,8 @@
 <p>- 💬 Ask me about **Web Scrapping & AI related application development** </p>
 <p>- 📫 How to reach me **antonsanoiev99521@gmail.com** </p>
 <p>- 📄 Know about my experiences [https://anton-sanoiev-portfolio.vercel.app/](https://anton-sanoiev-portfolio.vercel.app/) </p>
-<p>- ⚡ Fun fact **Very interesting & funny** <h3 align="left">Connect with me:</h3></p>
+<p>- ⚡ Fun fact **Very interesting & funny** </p>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/anton-sanoiev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anton-sanoiev" height="30" width="40" />
@@ -175,9 +176,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
   </a>
 </p>
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ai2guru&show_icons=true&locale=en&layout=compact" alt="ai2guru" />
 </p>
+<h3 align="left">Github Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ai2guru&show_icons=true&locale=en" alt="ai2guru" />
 </p>
