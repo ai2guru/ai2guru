@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anton Sanoiev</h1>
 <h3 align="center">Web Scrapping | AI Engineer from Toronto, Canada</h3>
 <p align="center">
-  <img src="https://github.com/c2guru/c2guru/blob/main/pc.gif">
+  <img src="https://github.com/ai2guru/ai2guru/blob/main/pc.gif">
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ai2guru&label=Profile%20views&color=0e75b6&style=flat" alt="ai2guru" />
