@@ -3,11 +3,17 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ai2guru&label=Profile%20views&color=0e75b6&style=flat" alt="ai2guru" />
 </p>
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ai2guru" alt="ai2guru" />
   </a>
-</p> - 🔭 I’m currently working on **Remote Agency** - 👨‍💻 All of my projects are available at [https://anton-sanoiev-portfolio.vercel.app/](https://anton-sanoiev-portfolio.vercel.app/) - 💬 Ask me about **Web Scrapping & AI related application development** - 📫 How to reach me **antonsanoiev99521@gmail.com** - 📄 Know about my experiences [https://anton-sanoiev-portfolio.vercel.app/](https://anton-sanoiev-portfolio.vercel.app/) - ⚡ Fun fact **Very interesting & funny** <h3 align="left">Connect with me:</h3>
+</p> 
+- 🔭 I’m currently working on **Remote Agency** 
+- 👨‍💻 All of my projects are available at [https://anton-sanoiev-portfolio.vercel.app/](https://anton-sanoiev-portfolio.vercel.app/) 
+- 💬 Ask me about **Web Scrapping & AI related application development** 
+- 📫 How to reach me **antonsanoiev99521@gmail.com** 
+- 📄 Know about my experiences [https://anton-sanoiev-portfolio.vercel.app/](https://anton-sanoiev-portfolio.vercel.app/) 
+- ⚡ Fun fact **Very interesting & funny** <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/anton-sanoiev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anton-sanoiev" height="30" width="40" />
@@ -169,11 +175,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
   </a>
 </p>
-<p>
+<p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ai2guru&show_icons=true&locale=en&layout=compact" alt="ai2guru" />
 </p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ai2guru&show_icons=true&locale=en" alt="ai2guru" />
+<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ai2guru&show_icons=true&locale=en" alt="ai2guru" />
 </p>
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ai2guru&" alt="ai2guru" />
 </p>
