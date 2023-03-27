@@ -12,15 +12,15 @@
   </a>
 </p> 
 <p>- 🔭 I’m currently working on **Remote Agency** </p>
-<p>- 👨‍💻 All of my projects are available at [https://anton-sanoiev-portfolio.vercel.app/](https://anton-sanoiev-portfolio.vercel.app/) </p>
+<p>- 👨‍💻 All of my projects are available at [https://kristijan-ilic-portfolio.vercel.app/] </p>
 <p>- 💬 Ask me about **Web Scrapping & AI related application development** </p>
-<p>- 📫 How to reach me **antonsanoiev99521@gmail.com** </p>
-<p>- 📄 Know about my experiences [https://anton-sanoiev-portfolio.vercel.app/](https://anton-sanoiev-portfolio.vercel.app/) </p>
+<p>- 📫 How to reach me **kristijan9701@gmail.com** </p>
+<p>- 📄 Know about my experiences [https://kristijan-Ilic-portfolio.vercel.app/](https://kristijan-Ilic-portfolio.vercel.app/) </p>
 <p>- ⚡ Fun fact **Very interesting & funny** </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/anton-sanoiev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anton-sanoiev" height="30" width="40" />
+  <a href="https://linkedin.com/in/ki970117" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristijan-Ilic" height="30" width="40" />
   </a>
   <a href="https://discord.gg/ai2engineer#3252" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ai2engineer#3252" height="30" width="40" />
