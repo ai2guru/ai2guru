@@ -15,7 +15,7 @@
 <p>- 👨‍💻 All of my projects are available at [https://kristijan-ilic-portfolio.vercel.app/] </p>
 <p>- 💬 Ask me about **Web Scrapping & AI related application development** </p>
 <p>- 📫 How to reach me **kristijan9701@gmail.com** </p>
-<p>- 📄 Know about my experiences [https://kristijan-Ilic-portfolio.vercel.app/](https://kristijan-Ilic-portfolio.vercel.app/) </p>
+<p>- 📄 Know about my experiences [https://kristijan-ilic-portfolio.vercel.app/] </p>
 <p>- ⚡ Fun fact **Very interesting & funny** </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
