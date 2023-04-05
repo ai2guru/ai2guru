@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AI Guru</h1>
+<h1 align="center">Hi 👋, I'm Dr.AI</h1>
 <h3 align="center">Web2/3 Developer | AI Engineer from Serbia</h3>
 <p align="center">
   <img src="https://github.com/ai2guru/ai2guru/blob/main/pc.gif">
