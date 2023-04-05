@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kristijan Ilic</h1>
-<h3 align="center">Web Scrapping | AI Engineer from Orasac, Serbia</h3>
+<h1 align="center">Hi 👋, I'm AI Guru</h1>
+<h3 align="center">Web2/3 Developer | AI Engineer from Serbia</h3>
 <p align="center">
   <img src="https://github.com/ai2guru/ai2guru/blob/main/pc.gif">
 </p>
