@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dr.AI</h1>
+![image](https://github.com/user-attachments/assets/b5c947e3-b3ca-41bc-b9a7-ce9873661663)<h1 align="center">Hi 👋, I'm Dr.AI</h1>
 <h3 align="center">Web2/3 Developer | AI Engineer from Serbia</h3>
 <p align="center">
   <img src="https://github.com/ai2guru/ai2guru/blob/main/pc.gif">
@@ -12,17 +12,17 @@
   </a>
 </p> 
 <p>- 🔭 I’m currently working on **Remote Agency** </p>
-<p>- 👨‍💻 All of my projects are available at [https://kristijan-ilic-portfolio.vercel.app/] </p>
+<p>- 👨‍💻 All of my projects are available at [https://alen-emini-portfolio.vercel.app] </p>
 <p>- 💬 Ask me about **Web Scrapping & AI related application development** </p>
-<p>- 📫 How to reach me **kristijan9701@gmail.com** </p>
-<p>- 📄 Know about my experiences [https://kristijan-ilic-portfolio.vercel.app/] </p>
+<p>- 📫 How to reach me **eminialen18@gmail.com** </p>
+<p>- 📄 Know about my experiences [https://alen-emini-portfolio.vercel.app] </p>
 <p>- ⚡ Fun fact **Very interesting & funny** </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ki970117" target="blank">
+  <a href="https://linkedin.com/in/alen-emini-link![image](https://github.com/user-attachments/assets/0b3b12b5-742b-4a57-9aa4-6415524cd847)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristijan-Ilic" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/ai2engineer#3252" target="blank">
+  <a href="https://discord.gg/mini_talent![image](https://github.com/user-attachments/assets/57f0dd0a-7430-420a-ab68-317a603461a0)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ai2engineer#3252" height="30" width="40" />
   </a>
 </p>
