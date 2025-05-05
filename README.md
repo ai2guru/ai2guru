@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/b5c947e3-b3ca-41bc-b9a7-ce9873661663)<h1 align="center">Hi 👋, I'm Dr.AI</h1>
-<h3 align="center">Web2/3 Developer | AI Engineer from Serbia</h3>
+![image](https://github.com/user-attachments/assets/b5c947e3-b3ca-41bc-b9a7-ce9873661663)<h1 align="center">Hi 👋, I'm Alen.E</h1>
+<h3 align="center">Full-stack Developer | Software Engineer from Serbia</h3>
 <p align="center">
   <img src="https://github.com/ai2guru/ai2guru/blob/main/pc.gif">
 </p>
