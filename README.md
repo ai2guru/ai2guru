@@ -13,17 +13,24 @@
 </p> 
 <p>- 🔭 I’m currently working as **Independent Freelancer**, and looking for new remote opportunities to make a big contribution in startup or long-term web2/3 projects.</p>
 <p>- 👨‍💻 Some of my projects are available to see at [https://alen-emini-portfolio.vercel.app] </p>
-<p>- 💬 Ask me about **Web Scrapping & AI related application development** </p>
-<p>- 📫 How to reach me **eminialen18@gmail.com** </p>
+<p>- 💬 Ask me about **Web3 Solution & AI related product development** </p>
 <p>- 📄 Know about my experiences [https://alen-emini-portfolio.vercel.app] </p>
 <p>- ⚡ Fun fact **Very interesting & funny** </p>
+<p>- 📫 How to reach me
+  <ul>
+    <li><a href="mailto:eminialen18@gmail.com" target="blank">eminialen18@gmail.com</a></li>
+    <li><a href="https://t.me/mini_talent" target="blank">https://t.me/mini_talent</a></li>
+    <li><a href="https://discord.gg/mini_talent" target="blank">https://discord.gg/mini_talent</a></li>
+    <li><a href="https://www.linkedin.com/in/alen-emini-link" target="blank">https://www.linkedin.com/in/alen-emini-link</a></li>
+  </ul>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/alen-emini-link![image](https://github.com/user-attachments/assets/0b3b12b5-742b-4a57-9aa4-6415524cd847)" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristijan-Ilic" height="30" width="40" />
+  <a href="https://linkedin.com/in/alen-emini-link" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alen Emini - LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/mini_talent![image](https://github.com/user-attachments/assets/57f0dd0a-7430-420a-ab68-317a603461a0)" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ai2engineer#3252" height="30" width="40" />
+  <a href="https://discord.gg/mini_talent" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alen Emini - Discord" height="30" width="40" />
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -70,12 +77,6 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-  </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
   </a>
@@ -99,9 +100,6 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
