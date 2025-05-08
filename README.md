@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b5c947e3-b3ca-41bc-b9a7-ce9873661663)<h1 align="center">Hi 👋, I'm Alen.E</h1>
+<h1 align="center">Hi 👋, I'm Alen.E</h1>
 <h3 align="center">Full-stack Developer | Software Engineer from Serbia</h3>
 <p align="center">
   <img src="https://github.com/ai2guru/ai2guru/blob/main/pc.gif">
@@ -11,8 +11,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ai2guru" alt="ai2guru" />
   </a>
 </p> 
-<p>- 🔭 I’m currently working on **Remote Agency** </p>
-<p>- 👨‍💻 All of my projects are available at [https://alen-emini-portfolio.vercel.app] </p>
+<p>- 🔭 I’m currently working as **Independent Freelancer**, and looking for new remote opportunities to make a big contribution in startup or long-term web2/3 projects.</p>
+<p>- 👨‍💻 Some of my projects are available to see at [https://alen-emini-portfolio.vercel.app] </p>
 <p>- 💬 Ask me about **Web Scrapping & AI related application development** </p>
 <p>- 📫 How to reach me **eminialen18@gmail.com** </p>
 <p>- 📄 Know about my experiences [https://alen-emini-portfolio.vercel.app] </p>
