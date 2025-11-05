@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alen.E</h1>
-<h3 align="center">Full-stack Developer | Software Engineer from Serbia</h3>
+<h1 align="center">Hi 👋, I'm AI+Guru</h1>
+<h3 align="center">AI Full-stack Engineer | Data Analysist</h3>
 <p align="center">
   <img src="https://github.com/ai2guru/ai2guru/blob/main/pc.gif">
 </p>
@@ -11,26 +11,26 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ai2guru" alt="ai2guru" />
   </a>
 </p> 
-<p>- 🔭 I’m currently working as **Independent Freelancer**, and looking for new remote opportunities to make a big contribution in startup or long-term web2/3 projects.</p>
-<p>- 👨‍💻 Some of my projects are available to see at [https://alen-emini-portfolio.vercel.app] </p>
-<p>- 💬 Ask me about **Web3 Solution & AI related product development** </p>
-<p>- 📄 Know about my experiences [https://alen-emini-portfolio.vercel.app] </p>
+<p>- 🔭 I'm currently working as an **Independent Freelancer**, and looking for new remote opportunities to make a big contribution in AI Product & Solutions.</p>
+<p>- 👨‍💻 Some of my projects are available to see at [https://ai2guru-portfolio.vercel.app] </p>
+<p>- 💬 Ask me about **Data Engineering & AI related product development** </p>
+<p>- 📄 Know about my experiences [https://ai2guru-portfolio.vercel.app] </p>
 <p>- ⚡ Fun fact **Very interesting & funny** </p>
 <p>- 📫 How to reach me
   <ul>
-    <li><a href="mailto:eminialen18@gmail.com" target="blank">eminialen18@gmail.com</a></li>
+    <li><a href="mailto:ai2guru.tech@gmail.com" target="blank">ai2guru.tech@gmail.com</a></li>
     <li><a href="https://t.me/mini_talent" target="blank">https://t.me/mini_talent</a></li>
     <li><a href="https://discord.gg/mini_talent" target="blank">https://discord.gg/mini_talent</a></li>
-    <li><a href="https://www.linkedin.com/in/alen-emini-link" target="blank">https://www.linkedin.com/in/alen-emini-link</a></li>
+    <li><a href="https://www.linkedin.com/in/siva-v-link" target="blank">https://www.linkedin.com/in/siva-v-link</a></li>
   </ul>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/alen-emini-link" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alen Emini - LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/siva-v-link" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Siva V - LinkedIn" height="30" width="40" />
   </a>
   <a href="https://discord.gg/mini_talent" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alen Emini - Discord" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Siva V - Discord" height="30" width="40" />
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
