@@ -181,6 +181,3 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ai2guru&count_private=true&show_icons=true&locale=en" alt="Anton's GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ai2guru&" alt="ai2guru" />
-</p>
