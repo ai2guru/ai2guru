@@ -175,5 +175,5 @@
 </p>
 <h3 align="left">Github Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ai2guru&count_private=true&show_icons=true&locale=en" alt="Anton's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ai2guru&count_private=false&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
