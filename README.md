@@ -19,8 +19,8 @@
 <p>- 📫 How to reach me
   <ul>
     <li><a href="mailto:ai2guru.tech@gmail.com" target="blank">ai2guru.tech@gmail.com</a></li>
-    <li><a href="https://t.me/c2guru" target="blank">https://t.me/mini_talent</a></li>
-    <li><a href="https://discord.gg/c2guru" target="blank">https://discord.gg/mini_talent</a></li>
+    <li><a href="https://t.me/c2guru" target="blank">https://t.me/c2guru</a></li>
+    <li><a href="https://discord.gg/c2guru" target="blank">https://discord.gg/c2guru</a></li>
   </ul>
 </p>
 <h3 align="left">Connect with me:</h3>
