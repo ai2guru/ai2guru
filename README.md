@@ -170,10 +170,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ai2guru&show_icons=true&locale=en&layout=compact" alt="ai2guru" />
 </p>
 <h3 align="left">Github Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ai2guru&count_private=false&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+</p> -->
